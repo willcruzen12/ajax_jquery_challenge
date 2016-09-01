@@ -1,0 +1,31 @@
+*{
+  font-family: sans-serif, serif, arial;
+}
+
+html{
+  background: #1e5799;
+  background: -moz-linear-gradient(-45deg,  #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+  background: -webkit-linear-gradient(-45deg,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%);
+  background: linear-gradient(135deg,  #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 );
+  min-height: 100%;
+  background-size: fixed;
+  background-repeat: no-repeat;
+}
+
+button{
+  color: white;
+}
+
+img {
+  border: 2px solid #3B3939;
+  box-shadow: 10px 10px 10px #3B3939;
+}
+
+#searchIn{
+  background-color: white;
+}
+
+#searchNow{
+  background-color: #3B3939;
+}
